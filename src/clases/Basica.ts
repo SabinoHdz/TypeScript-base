@@ -30,7 +30,7 @@
   console.log(antman);
   antman.realName = "Scott Lang";
   console.log(antman);
-  console.log(Avenger.avgAge);
+  console.log(Avenger.avgAge); //Propiedad estatica
 
   console.log(antman.bio());
 
